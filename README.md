@@ -2,6 +2,9 @@
 
 This network mapping tool designed to visualize connected devices and their relationships within a network. It provides a user-friendly interface for inputting network data and generating visual maps that accurately represent the layout of a network. The tool supports complex network structures and allows customization of the map's appearance.
 
+# RECON WorkFlow Block
+![FlowDiagram](https://github.com/zaidbinkokab/nMapper/assets/57888815/3590ca4b-77b5-40e0-8683-a8e0c1f923c2)
+
 ## Key Features:
 ## Network Discovery: 
 Scan a subnet to discover connected devices and gather information about their IP and MAC addresses.
