@@ -36,12 +36,12 @@ Navigate to the cloned repository's directory:
 ``` cd nMapper ```
 
 ## Install the required Python dependencies using pip:
-``` pip install -r requirement.txt ```
+``` sudo pip install -r requirement.txt ```
 
 ### Run the Application
 After installing the dependencies, you can run the application using the following command:
 
-``` python3 main.py ```
+``` sudo python3 main.py ```
 
 The application's GUI window should open, allowing you to interact with the nMapper tool.
 
@@ -50,9 +50,10 @@ Input the subnet or IP address of the network you want to scan.<br>
 Click the "Scan Subnet" button to discover connected devices.<br>
 Visualize the network map to see device connections and relationships. <br>
 Customize the map appearance and export it for further analysis and documentation.<br>
+If running in a VM do confirm your network settings i.e. ```NAT ``` or  ```Bridge```<br>
 
 ## Dependencies:
-
+Kali Linux (GUI) <br>
 Python 3.x <br>
 tkinter <br>
 networkx <br>
