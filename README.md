@@ -36,7 +36,7 @@ Navigate to the cloned repository's directory:
 ``` cd nMapper ```
 
 ## Install the required Python dependencies using pip:
-``` pip install -r requirements.txt ```
+``` pip install -r requirement.txt ```
 
 ### Run the Application
 After installing the dependencies, you can run the application using the following command:
